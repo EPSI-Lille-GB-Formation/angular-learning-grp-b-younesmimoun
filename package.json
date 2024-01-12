@@ -18,13 +18,19 @@
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
+<<<<<<< HEAD
     "@picocss/pico": "^1.5.10",
+=======
+>>>>>>> b0af9fe215b9ffeeb72ba36d1c2e8da39e297360
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@angular-devkit/build-angular": "^17.0.6",
+=======
+>>>>>>> b0af9fe215b9ffeeb72ba36d1c2e8da39e297360
     "@angular/cli": "^17.0.5",
     "@angular/compiler-cli": "^17.0.0",
     "@types/jasmine": "~5.1.0",

@@ -3,6 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+<<<<<<< HEAD
     "todolist": {
       "projectType": "application",
       "schematics": {},
@@ -182,5 +183,7 @@
   },
   "cli": {
     "analytics": false
+=======
+>>>>>>> b0af9fe215b9ffeeb72ba36d1c2e8da39e297360
   }
 }
